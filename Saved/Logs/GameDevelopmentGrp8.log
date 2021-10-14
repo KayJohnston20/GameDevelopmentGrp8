@@ -1621,3 +1621,249 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.14-14.43.07:093][894]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2021.10.14-14.43.07:093][894]LogContentValidation: Display: Validating Blueprint /Game/FPS_Weapon_Bundle/Sammy/Spikes_Sammy.Spikes_Sammy
 [2021.10.14-14.43.12:804][505]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2021.10.14-14.49.50:588][412]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FPS_Weapon_Bundle/Sammy/Trap_Sammy.Trap_Sammy
+[2021.10.14-14.50.06:389][345]LogTexture: Display: Building textures: T_12Gauge_ALB (DXT1, 256X256)
+[2021.10.14-14.50.06:389][345]LogTexture: Display: Building textures: T_12Gauge_NRM (BC5, 256X256)
+[2021.10.14-14.50.06:389][345]LogTexture: Display: Building textures: T_12Gauge_M_MSK (AutoDXT, 256X256)
+[2021.10.14-14.50.19:185][182]LogTexture: Display: Building textures: T_9x18_ALB (AutoDXT, 256X256)
+[2021.10.14-14.50.19:185][182]LogTexture: Display: Building textures: T_9x18_NRM (BC5, 256X256)
+[2021.10.14-14.50.19:185][182]LogTexture: Display: Building textures: T_9x18_M_MSK (AutoDXT, 256X256)
+[2021.10.14-14.50.24:922][526]LogTexture: Display: Building textures: T_Desert_Marpat_Pattern (AutoDXT, 512X512)
+[2021.10.14-14.50.24:922][526]LogMaterial: Display: Missing cached shader map for material M_Weapon_Master_USE, compiling. 
+[2021.10.14-14.50.24:991][527]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 60
+[2021.10.14-14.50.24:991][527]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 52
+[2021.10.14-14.50.24:991][527]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 44
+[2021.10.14-14.50.24:991][527]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 36
+[2021.10.14-14.50.24:991][527]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 28
+[2021.10.14-14.50.24:991][527]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 20
+[2021.10.14-14.50.24:991][527]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2021.10.14-14.50.24:991][527]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.10.14-14.50.49:488][803]LogTexture: Display: Building textures: T_KA47_NRM (BC5, 2048X2048)
+[2021.10.14-14.50.49:488][803]LogTexture: Display: Building textures: T_KA47_ALB (DXT1, 2048X2048)
+[2021.10.14-14.50.49:488][803]LogTexture: Display: Building textures: T_KA47_M_MSK (AutoDXT, 2048X2048)
+[2021.10.14-14.50.53:383][920]LogTexture: Display: Building textures: T_KA74U_Gold_ALB (AutoDXT, 2048X2048)
+[2021.10.14-14.50.53:383][920]LogTexture: Display: Building textures: T_KA74U_Gold_M_MSK (AutoDXT, 2048X2048)
+[2021.10.14-14.50.53:383][920]LogMaterial: Display: Missing cached shader map for material M_Weapon_Master_USE, compiling. 
+[2021.10.14-14.50.53:413][920]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 60
+[2021.10.14-14.50.53:413][920]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 52
+[2021.10.14-14.50.53:413][920]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 44
+[2021.10.14-14.50.53:413][920]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 36
+[2021.10.14-14.50.53:413][920]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 28
+[2021.10.14-14.50.53:413][920]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 20
+[2021.10.14-14.50.53:413][920]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2021.10.14-14.50.53:413][920]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.10.14-14.51.37:136][339]LogTexture: Display: Building textures: T_M9_NRM (BC5, 2048X2048)
+[2021.10.14-14.51.37:136][339]LogTexture: Display: Building textures: T_M9_ALB (DXT1, 2048X2048)
+[2021.10.14-14.51.37:136][339]LogTexture: Display: Building textures: T_M9_M_MSK (DXT1, 2048X2048)
+[2021.10.14-14.51.47:789][829]LogTexture: Display: Building textures: T_SMG11_NRM (BC5, 2048X2048)
+[2021.10.14-14.51.47:789][829]LogTexture: Display: Building textures: T_SMG11_ALB (AutoDXT, 2048X2048)
+[2021.10.14-14.51.47:789][829]LogTexture: Display: Building textures: T_SMG11_M_MSK (AutoDXT, 2048X2048)
+[2021.10.14-14.51.47:790][829]LogMaterial: Display: Missing cached shader map for material M_Weapon_Master_USE, compiling. 
+[2021.10.14-14.51.47:816][829]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 60
+[2021.10.14-14.51.47:816][829]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 52
+[2021.10.14-14.51.47:816][829]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 44
+[2021.10.14-14.51.47:816][829]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 36
+[2021.10.14-14.51.47:816][829]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 28
+[2021.10.14-14.51.47:816][829]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 20
+[2021.10.14-14.51.47:816][829]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2021.10.14-14.51.47:816][829]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.10.14-14.51.54:773][ 93]LogTexture: Display: Building textures: T_V_Grip_ALB (AutoDXT, 512X512)
+[2021.10.14-14.51.54:773][ 93]LogTexture: Display: Building textures: T_V_Grip_M_MSK (AutoDXT, 512X512)
+[2021.10.14-14.51.54:773][ 93]LogTexture: Display: Building textures: T_V_Grip_NRM (BC5, 1024X1024)
+[2021.10.14-14.52.22:262][770]BlueprintLog: New page: Compile Trap_Sammy
+[2021.10.14-14.52.22:308][770]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2021.10.14-14.52.23:695][864]LogSlate: Window 'Trap_Sammy' being destroyed
+[2021.10.14-14.52.23:701][864]LogSlate: Window 'Trap_Sammy' being destroyed
+[2021.10.14-14.52.23:711][864]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-14.52.23:711][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-14.52.25:740][ 81]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.14-14.52.25:752][ 81]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.14-14.52.25:753][ 81]PIE: New page: PIE session: ThirdPersonExampleMap (14 Oct 2021, 16:52:25)
+[2021.10.14-14.52.25:791][ 81]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.10.14-14.52.25:806][ 81]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014510s)
+[2021.10.14-14.52.25:807][ 81]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.10.14-14.52.25:807][ 81]LogPlayLevel: PIE: World Init took: (0.001449s)
+[2021.10.14-14.52.25:807][ 81]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016221s)
+[2021.10.14-14.52.25:829][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2021.10.14-14.52.25:831][ 81]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.10.14-14.52.25:831][ 81]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.14-14.52.25:831][ 81]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.14-14.52.25:831][ 81]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.14-14.52.25:831][ 81]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.14-14.52.25:831][ 81]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.14-14.52.25:831][ 81]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.14-14.52.25:831][ 81]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.14-14.52.25:831][ 81]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.14-14.52.25:831][ 81]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.14-14.52.25:831][ 81]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.14-14.52.25:839][ 81]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.14-14.52.25:839][ 81]LogAudioMixer: Display: 1: FrontRight
+[2021.10.14-14.52.25:863][ 81]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2021.10.14-14.52.25:863][ 81]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.14-14.52.25:863][ 81]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.14-14.52.25:863][ 81]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.14-14.52.25:864][ 81]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.14-14.52.25:864][ 81]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.14-14.52.25:864][ 81]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.14-14.52.25:878][ 81]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.14-14.52.25:878][ 81]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.14-14.52.25:878][ 81]LogInit: FAudioDevice initialized.
+[2021.10.14-14.52.25:878][ 81]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonExampleMap'.
+[2021.10.14-14.52.25:888][ 81]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.10.14-14.52.25:892][ 81]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.10.14-15.52.25
+[2021.10.14-14.52.25:892][ 81]LogWorld: Bringing up level for play took: 0.003805
+[2021.10.14-14.52.25:893][ 81]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.10.14-14.52.25:896][ 81]PIE: Server logged in
+[2021.10.14-14.52.25:897][ 81]PIE: Play in editor total start time 0.147 seconds.
+[2021.10.14-14.52.28:738][419]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2021.10.14-14.52.28:738][419]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2021.10.14-14.52.28:739][419]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.10.14-14.52.28:739][419]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-14.52.28:740][419]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-14.52.28:796][419]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.14-14.52.28:801][419]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.10.14-14.52.28:802][419]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.10.14-14.52.28:814][419]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011407s)
+[2021.10.14-14.52.28:815][419]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.10.14-14.52.28:815][419]LogPlayLevel: PIE: World Init took: (0.001103s)
+[2021.10.14-14.52.28:815][419]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012659s)
+[2021.10.14-14.52.28:815][419]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonExampleMap'.
+[2021.10.14-14.52.28:815][419]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.10.14-14.52.28:820][419]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.10.14-15.52.28
+[2021.10.14-14.52.28:820][419]LogWorld: Bringing up level for play took: 0.004694
+[2021.10.14-14.52.28:822][419]LogLoad: Took 0.083445 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap)
+[2021.10.14-14.52.32:474][854]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2021.10.14-14.52.32:474][854]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2021.10.14-14.52.32:474][854]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.10.14-14.52.32:474][854]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-14.52.32:475][854]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-14.52.32:526][854]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.14-14.52.32:530][854]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.10.14-14.52.32:532][854]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.10.14-14.52.32:545][854]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012896s)
+[2021.10.14-14.52.32:546][854]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.10.14-14.52.32:546][854]LogPlayLevel: PIE: World Init took: (0.001118s)
+[2021.10.14-14.52.32:546][854]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014151s)
+[2021.10.14-14.52.32:546][854]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonExampleMap'.
+[2021.10.14-14.52.32:546][854]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.10.14-14.52.32:554][854]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.10.14-15.52.32
+[2021.10.14-14.52.32:554][854]LogWorld: Bringing up level for play took: 0.007978
+[2021.10.14-14.52.32:556][854]LogLoad: Took 0.081480 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap)
+[2021.10.14-14.52.40:526][807]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2021.10.14-14.52.40:526][807]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2021.10.14-14.52.40:526][807]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.10.14-14.52.40:527][807]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-14.52.40:527][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-14.52.40:567][807]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.14-14.52.40:571][807]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.10.14-14.52.40:573][807]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.10.14-14.52.40:586][807]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012867s)
+[2021.10.14-14.52.40:587][807]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.10.14-14.52.40:587][807]LogPlayLevel: PIE: World Init took: (0.001416s)
+[2021.10.14-14.52.40:587][807]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014439s)
+[2021.10.14-14.52.40:587][807]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonExampleMap'.
+[2021.10.14-14.52.40:587][807]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.10.14-14.52.40:603][807]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.10.14-15.52.40
+[2021.10.14-14.52.40:604][807]LogWorld: Bringing up level for play took: 0.016690
+[2021.10.14-14.52.40:605][807]LogLoad: Took 0.079576 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap)
+[2021.10.14-14.52.48:633][766]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2021.10.14-14.52.48:633][766]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2021.10.14-14.52.48:633][766]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.10.14-14.52.48:633][766]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-14.52.48:634][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-14.52.48:677][766]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.14-14.52.48:681][766]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.10.14-14.52.48:683][766]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.10.14-14.52.48:696][766]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012870s)
+[2021.10.14-14.52.48:697][766]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.10.14-14.52.48:697][766]LogPlayLevel: PIE: World Init took: (0.001376s)
+[2021.10.14-14.52.48:697][766]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014420s)
+[2021.10.14-14.52.48:697][766]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonExampleMap'.
+[2021.10.14-14.52.48:697][766]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.10.14-14.52.48:707][766]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.10.14-15.52.48
+[2021.10.14-14.52.48:708][766]LogWorld: Bringing up level for play took: 0.009720
+[2021.10.14-14.52.48:710][766]LogLoad: Took 0.076994 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap)
+[2021.10.14-14.52.59:714][ 83]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2021.10.14-14.52.59:714][ 83]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2021.10.14-14.52.59:714][ 83]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.10.14-14.52.59:714][ 83]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-14.52.59:715][ 83]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-14.52.59:766][ 83]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.14-14.52.59:771][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.10.14-14.52.59:773][ 83]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.10.14-14.52.59:785][ 83]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012366s)
+[2021.10.14-14.52.59:787][ 83]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.10.14-14.52.59:787][ 83]LogPlayLevel: PIE: World Init took: (0.001415s)
+[2021.10.14-14.52.59:787][ 83]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013952s)
+[2021.10.14-14.52.59:787][ 83]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonExampleMap'.
+[2021.10.14-14.52.59:787][ 83]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.10.14-14.52.59:803][ 83]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.10.14-15.52.59
+[2021.10.14-14.52.59:804][ 83]LogWorld: Bringing up level for play took: 0.016443
+[2021.10.14-14.52.59:806][ 83]LogLoad: Took 0.092062 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap)
+[2021.10.14-14.53.07:003][943]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2021.10.14-14.53.07:003][943]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2021.10.14-14.53.07:003][943]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.10.14-14.53.07:003][943]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-14.53.07:004][943]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-14.53.07:046][943]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.14-14.53.07:051][943]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2021.10.14-14.53.07:052][943]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.10.14-14.53.07:065][943]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012594s)
+[2021.10.14-14.53.07:066][943]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.10.14-14.53.07:067][943]LogPlayLevel: PIE: World Init took: (0.001374s)
+[2021.10.14-14.53.07:067][943]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014159s)
+[2021.10.14-14.53.07:067][943]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonExampleMap'.
+[2021.10.14-14.53.07:067][943]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.10.14-14.53.07:080][943]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.10.14-15.53.07
+[2021.10.14-14.53.07:081][943]LogWorld: Bringing up level for play took: 0.013387
+[2021.10.14-14.53.07:082][943]LogLoad: Took 0.079500 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap)
+[2021.10.14-14.53.14:882][873]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2021.10.14-14.53.14:882][873]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2021.10.14-14.53.14:882][873]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.10.14-14.53.14:882][873]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-14.53.14:883][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-14.53.14:936][873]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.14-14.53.14:941][873]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2021.10.14-14.53.14:942][873]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.10.14-14.53.14:955][873]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012453s)
+[2021.10.14-14.53.14:956][873]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.10.14-14.53.14:956][873]LogPlayLevel: PIE: World Init took: (0.001292s)
+[2021.10.14-14.53.14:956][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013912s)
+[2021.10.14-14.53.14:956][873]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonExampleMap'.
+[2021.10.14-14.53.14:956][873]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.10.14-14.53.14:966][873]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.10.14-15.53.14
+[2021.10.14-14.53.14:966][873]LogWorld: Bringing up level for play took: 0.009649
+[2021.10.14-14.53.14:968][873]LogLoad: Took 0.086058 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap)
+[2021.10.14-14.53.15:822][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-14.53.15:822][967]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.10.14-14.53.15:822][967]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.14-14.53.15:823][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-14.53.15:833][967]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.14-14.53.15:843][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.14-14.53.15:859][967]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.14-14.53.15:859][967]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.14-14.53.15:860][967]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.14-14.53.15:879][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.14-14.53.15:884][967]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.10.14-14.53.15:924][968]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.10.14-14.53.56:865][851]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.10.14-14.53.57:961][851]LogSavePackage: Moving 'U:/GameDevelopmentGrp8/GameDevelopmentGrp8/Saved/ThirdPersonExampleMap_Auto171338FCD4FAD8A1BFA42B481611BE2EF.tmp' to 'U:/GameDevelopmentGrp8/GameDevelopmentGrp8/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2021.10.14-14.53.57:972][851]LogFileHelpers: No new changes to save!
+[2021.10.14-14.53.57:975][851]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 1.128
+[2021.10.14-14.53.57:975][851]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.128
+[2021.10.14-14.53.57:978][851]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FPS_Weapon_Bundle/Sammy/Trap_Sammy] ([1] browsable assets)...
+[2021.10.14-14.53.58:003][851]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FPS_Weapon_Bundle/Sammy/Trap_Sammy.Trap_Sammy]
+[2021.10.14-14.53.58:003][851]OBJ SavePackage: Finished generating thumbnails for package [/Game/FPS_Weapon_Bundle/Sammy/Trap_Sammy]
+[2021.10.14-14.53.58:242][851]LogSavePackage: Moving 'U:/GameDevelopmentGrp8/GameDevelopmentGrp8/Saved/Trap_Sammy_Auto1BEBD336149C5F9B28B20C6A60ADD490A.tmp' to 'U:/GameDevelopmentGrp8/GameDevelopmentGrp8/Saved/Autosaves/Game/FPS_Weapon_Bundle/Sammy/Trap_Sammy_Auto1.uasset'
+[2021.10.14-14.53.58:249][851]LogFileHelpers: Auto-saving content packages took 0.274
+[2021.10.14-14.55.52:240][560]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.10.14-14.55.52:288][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.10.14-14.55.53:403][560]LogSavePackage: Moving 'U:/GameDevelopmentGrp8/GameDevelopmentGrp8/Saved/ThirdPersonExampleMap14CD75454DAF2330C23D51B8A9FC64EE.tmp' to 'U:/GameDevelopmentGrp8/GameDevelopmentGrp8/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.10.14-14.55.53:432][560]LogFileHelpers: No new changes to save!
+[2021.10.14-14.55.53:435][560]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 1.163
+[2021.10.14-14.55.53:436][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FPS_Weapon_Bundle/Sammy/Trap_Sammy" FILE="U:/GameDevelopmentGrp8/GameDevelopmentGrp8/Content/FPS_Weapon_Bundle/Sammy/Trap_Sammy.uasset" SILENT=true
+[2021.10.14-14.55.53:563][560]LogSavePackage: Moving 'U:/GameDevelopmentGrp8/GameDevelopmentGrp8/Saved/Trap_SammyA751BC7348FAF266B7E6A2B257641255.tmp' to 'U:/GameDevelopmentGrp8/GameDevelopmentGrp8/Content/FPS_Weapon_Bundle/Sammy/Trap_Sammy.uasset'
+[2021.10.14-14.55.53:628][560]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.14-14.55.53:628][560]LogContentValidation: Display: Validating Blueprint /Game/FPS_Weapon_Bundle/Sammy/Trap_Sammy.Trap_Sammy
+[2021.10.14-14.55.53:628][560]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.10.14-14.56.14:688][976]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
