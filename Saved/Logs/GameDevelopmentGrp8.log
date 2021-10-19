@@ -2445,3 +2445,141 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.19-15.05.48:928][553]AssetCheck: New page: Asset Save: multiple assets
 [2021.10.19-15.05.48:928][553]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2021.10.19-15.05.48:929][553]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.10.19-15.07.17:869][ 83]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.19-15.07.17:875][ 83]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.19-15.07.17:875][ 83]PIE: New page: PIE session: ThirdPersonExampleMap (19 Oct 2021, 17:07:17)
+[2021.10.19-15.07.17:921][ 83]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.10.19-15.07.17:937][ 83]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015974s)
+[2021.10.19-15.07.17:938][ 83]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.10.19-15.07.17:938][ 83]LogPlayLevel: PIE: World Init took: (0.001558s)
+[2021.10.19-15.07.17:939][ 83]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017766s)
+[2021.10.19-15.07.17:977][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.10.19-15.07.17:978][ 83]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.10.19-15.07.17:978][ 83]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.19-15.07.17:978][ 83]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.19-15.07.17:979][ 83]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.19-15.07.17:979][ 83]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.19-15.07.17:979][ 83]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.19-15.07.17:979][ 83]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.19-15.07.17:979][ 83]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.19-15.07.17:979][ 83]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.19-15.07.17:979][ 83]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.19-15.07.17:979][ 83]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.19-15.07.17:986][ 83]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.19-15.07.17:987][ 83]LogAudioMixer: Display: 1: FrontRight
+[2021.10.19-15.07.18:001][ 83]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.10.19-15.07.18:002][ 83]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.19-15.07.18:002][ 83]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.19-15.07.18:002][ 83]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.19-15.07.18:003][ 83]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.19-15.07.18:003][ 83]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.19-15.07.18:003][ 83]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.19-15.07.18:015][ 83]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.19-15.07.18:015][ 83]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.19-15.07.18:015][ 83]LogInit: FAudioDevice initialized.
+[2021.10.19-15.07.18:015][ 83]LogAudio: Display: Audio Device (ID: 17) registered with world 'ThirdPersonExampleMap'.
+[2021.10.19-15.07.18:027][ 83]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.10.19-15.07.18:033][ 83]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.10.19-16.07.18
+[2021.10.19-15.07.18:034][ 83]LogWorld: Bringing up level for play took: 0.006007
+[2021.10.19-15.07.18:034][ 83]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.10.19-15.07.18:039][ 83]PIE: Server logged in
+[2021.10.19-15.07.18:040][ 83]PIE: Play in editor total start time 0.166 seconds.
+[2021.10.19-15.07.20:696][390]LogBlueprintUserMessages: [HealthKit4] Health is Full
+[2021.10.19-15.07.21:572][495]LogBlueprintUserMessages: [HealthKit3] Health is Full
+[2021.10.19-15.07.21:898][534]LogBlueprintUserMessages: [HealthKit2] Health is Full
+[2021.10.19-15.07.22:148][564]LogBlueprintUserMessages: [HealthKit_2] Health is Full
+[2021.10.19-15.07.22:182][568]LogCharacterMovement: EnemyAI_KJ_2 is stuck and failed to move! Velocity: X=-117.02 Y=21.23 Z=0.00 Location: X=280.51 Y=1415.97 Z=220.45 Normal: X=0.71 Y=0.70 Z=0.00 PenetrationDepth:23.408 Actor:SpinningBlade_Sammy_2 Component:Blade BoneName:None (0 other events since notify)
+[2021.10.19-15.07.23:115][680]LogBlueprintUserMessages: [HealthKit_2] Health is Full
+[2021.10.19-15.07.23:365][710]LogBlueprintUserMessages: [HealthKit2] Health is Full
+[2021.10.19-15.07.23:716][752]LogBlueprintUserMessages: [HealthKit3] Health is Full
+[2021.10.19-15.07.23:949][780]LogBlueprintUserMessages: [HealthKit4] Health is Full
+[2021.10.19-15.07.29:357][428]LogBlueprintUserMessages: [HealthKit4] You used a health kit
+[2021.10.19-15.07.30:259][536]LogBlueprintUserMessages: [HealthKit3] You used a health kit
+[2021.10.19-15.07.31:044][630]LogBlueprintUserMessages: [HealthKit2] Health is Full
+[2021.10.19-15.07.35:594][175]LogCharacterMovement: EnemyAI_KJ_2 is stuck and failed to move! Velocity: X=405.37 Y=-195.39 Z=0.00 Location: X=-343.07 Y=-657.32 Z=218.32 Normal: X=-0.56 Y=0.82 Z=-0.12 PenetrationDepth:6.225 Actor:ProjectileBullet-KJ_C_27 Component:StaticMesh BoneName:None (1 other events since notify)
+[2021.10.19-15.07.38:105][476]LogBlueprintUserMessages: [HealthKit2] Health is Full
+[2021.10.19-15.07.38:355][506]LogBlueprintUserMessages: [HealthKit_2] Health is Full
+[2021.10.19-15.07.39:312][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.19-15.07.39:312][615]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.10.19-15.07.39:312][615]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.19-15.07.39:313][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.19-15.07.39:318][615]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.19-15.07.39:324][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.19-15.07.39:353][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.19-15.07.39:354][615]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.19-15.07.39:354][615]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.19-15.07.39:376][615]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2021.10.19-15.07.39:398][616]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.10.19-15.08.12:725][410]BlueprintLog: New page: Compile Speed_Pickup
+[2021.10.19-15.08.12:779][410]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2021.10.19-15.08.13:293][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TeamMemberContributions/Alex_Lee/Speed_Pickup" FILE="../../../../GameDevelopmentGrp8/Content/TeamMemberContributions/Alex_Lee/Speed_Pickup.uasset" SILENT=true
+[2021.10.19-15.08.13:308][454]LogSavePackage: Moving '../../../../GameDevelopmentGrp8/Saved/Speed_PickupAC936D264CA25ED6147161A878203F73.tmp' to '../../../../GameDevelopmentGrp8/Content/TeamMemberContributions/Alex_Lee/Speed_Pickup.uasset'
+[2021.10.19-15.08.13:323][454]AssetCheck: New page: Asset Save: Speed_Pickup
+[2021.10.19-15.08.13:323][454]LogContentValidation: Display: Validating Blueprint /Game/TeamMemberContributions/Alex_Lee/Speed_Pickup.Speed_Pickup
+[2021.10.19-15.08.37:280][  0]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.10.19-15.08.46:323][999]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.19-15.08.46:329][999]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.19-15.08.46:330][999]PIE: New page: PIE session: ThirdPersonExampleMap (19 Oct 2021, 17:08:46)
+[2021.10.19-15.08.46:361][999]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.10.19-15.08.46:376][999]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015591s)
+[2021.10.19-15.08.46:378][999]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.10.19-15.08.46:378][999]LogPlayLevel: PIE: World Init took: (0.001585s)
+[2021.10.19-15.08.46:378][999]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017401s)
+[2021.10.19-15.08.46:413][999]LogUObjectHash: Compacting FUObjectHashTables data took   3.92ms
+[2021.10.19-15.08.46:417][999]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2021.10.19-15.08.46:417][999]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.19-15.08.46:417][999]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.19-15.08.46:417][999]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.19-15.08.46:417][999]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.19-15.08.46:417][999]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.19-15.08.46:417][999]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.19-15.08.46:417][999]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.19-15.08.46:417][999]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.19-15.08.46:418][999]LogAudio: Display: Using built-in audio occlusion.
+[2021.10.19-15.08.46:418][999]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.19-15.08.46:423][999]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.19-15.08.46:423][999]LogAudioMixer: Display: 1: FrontRight
+[2021.10.19-15.08.46:437][999]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.10.19-15.08.46:437][999]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.19-15.08.46:437][999]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.19-15.08.46:437][999]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.19-15.08.46:438][999]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.19-15.08.46:438][999]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.19-15.08.46:438][999]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.19-15.08.46:451][999]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.19-15.08.46:451][999]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.19-15.08.46:451][999]LogInit: FAudioDevice initialized.
+[2021.10.19-15.08.46:451][999]LogAudio: Display: Audio Device (ID: 18) registered with world 'ThirdPersonExampleMap'.
+[2021.10.19-15.08.46:459][999]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.10.19-15.08.46:464][999]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.10.19-16.08.46
+[2021.10.19-15.08.46:465][999]LogWorld: Bringing up level for play took: 0.005657
+[2021.10.19-15.08.46:466][999]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.10.19-15.08.46:471][999]PIE: Server logged in
+[2021.10.19-15.08.46:472][999]PIE: Play in editor total start time 0.144 seconds.
+[2021.10.19-15.08.55:740][ 93]LogCharacterMovement: EnemyAI_KJ2 is stuck and failed to move! Velocity: X=49.01 Y=-447.32 Z=0.00 Location: X=-1291.21 Y=-446.90 Z=218.36 Normal: X=0.96 Y=0.22 Z=-0.20 PenetrationDepth:4.574 Actor:ProjectileBullet-KJ_C_43 Component:StaticMesh BoneName:None (0 other events since notify)
+[2021.10.19-15.08.56:266][156]LogCharacterMovement: EnemyAI_KJ_2 is stuck and failed to move! Velocity: X=123.11 Y=-47.54 Z=0.00 Location: X=-1277.19 Y=-509.50 Z=218.80 Normal: X=-0.40 Y=0.74 Z=-0.54 PenetrationDepth:20.234 Actor:ProjectileBullet-KJ_C_48 Component:StaticMesh BoneName:None (0 other events since notify)
+[2021.10.19-15.09.06:051][327]LogBlueprintUserMessages: [HealthKit4] You used a health kit
+[2021.10.19-15.09.06:402][369]LogBlueprintUserMessages: [HealthKit3] You used a health kit
+[2021.10.19-15.09.06:736][409]LogBlueprintUserMessages: [HealthKit2] You used a health kit
+[2021.10.19-15.09.06:985][439]LogBlueprintUserMessages: [HealthKit_2] Health is Full
+[2021.10.19-15.09.09:322][719]LogCharacterMovement: EnemyAI_KJ3 is stuck and failed to move! Velocity: X=-403.86 Y=-84.02 Z=0.00 Location: X=-562.14 Y=1099.54 Z=218.29 Normal: X=0.00 Y=0.58 Z=-0.82 PenetrationDepth:0.093 Actor:Trap_Sammy_2 Component:Trap BoneName:None (0 other events since notify)
+[2021.10.19-15.09.10:327][839]LogCharacterMovement: EnemyAI_KJ3 is stuck and failed to move! Velocity: X=-383.16 Y=-235.99 Z=0.00 Location: X=-562.14 Y=1099.54 Z=218.29 Normal: X=0.00 Y=0.58 Z=-0.82 PenetrationDepth:0.093 Actor:Trap_Sammy_2 Component:Trap BoneName:None (119 other events since notify)
+[2021.10.19-15.09.10:360][843]LogCharacterMovement: EnemyAI_KJ2 is stuck and failed to move! Velocity: X=-167.88 Y=-417.51 Z=0.00 Location: X=-1044.99 Y=543.87 Z=218.66 Normal: X=0.91 Y=0.16 Z=-0.39 PenetrationDepth:15.089 Actor:ProjectileBullet-KJ_C_79 Component:StaticMesh BoneName:None (0 other events since notify)
+[2021.10.19-15.09.11:328][958]LogCharacterMovement: EnemyAI_KJ3 is stuck and failed to move! Velocity: X=-383.16 Y=-235.99 Z=0.00 Location: X=-562.14 Y=1099.54 Z=218.29 Normal: X=0.00 Y=0.58 Z=-0.82 PenetrationDepth:0.093 Actor:Trap_Sammy_2 Component:Trap BoneName:None (118 other events since notify)
+[2021.10.19-15.09.12:334][ 78]LogCharacterMovement: EnemyAI_KJ3 is stuck and failed to move! Velocity: X=-383.16 Y=-235.99 Z=0.00 Location: X=-562.14 Y=1099.54 Z=218.29 Normal: X=0.00 Y=0.58 Z=-0.82 PenetrationDepth:0.093 Actor:Trap_Sammy_2 Component:Trap BoneName:None (119 other events since notify)
+[2021.10.19-15.09.12:910][147]LogCharacterMovement: EnemyAI_KJ_2 is stuck and failed to move! Velocity: X=49.17 Y=-6.34 Z=0.00 Location: X=-493.36 Y=1099.67 Z=218.28 Normal: X=0.00 Y=0.58 Z=-0.82 PenetrationDepth:0.012 Actor:Trap_Sammy_2 Component:Trap BoneName:None (0 other events since notify)
+[2021.10.19-15.09.13:336][198]LogCharacterMovement: EnemyAI_KJ3 is stuck and failed to move! Velocity: X=447.70 Y=-45.40 Z=0.00 Location: X=-562.12 Y=1099.54 Z=218.29 Normal: X=0.00 Y=0.58 Z=-0.82 PenetrationDepth:0.093 Actor:Trap_Sammy_2 Component:Trap BoneName:None (119 other events since notify)
+[2021.10.19-15.09.13:989][276]LogCharacterMovement: EnemyAI_KJ2 is stuck and failed to move! Velocity: X=444.86 Y=-67.85 Z=0.00 Location: X=-387.14 Y=-520.78 Z=218.47 Normal: X=0.11 Y=0.94 Z=-0.31 PenetrationDepth:5.707 Actor:ProjectileBullet-KJ_C_102 Component:StaticMesh BoneName:None (5 other events since notify)
+[2021.10.19-15.09.14:339][318]LogCharacterMovement: EnemyAI_KJ3 is stuck and failed to move! Velocity: X=447.70 Y=-45.40 Z=0.00 Location: X=-562.12 Y=1099.54 Z=218.29 Normal: X=0.00 Y=0.58 Z=-0.82 PenetrationDepth:0.093 Actor:Trap_Sammy_2 Component:Trap BoneName:None (119 other events since notify)
+[2021.10.19-15.09.14:722][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.19-15.09.14:722][360]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.10.19-15.09.14:722][360]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.19-15.09.14:723][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.19-15.09.14:731][360]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.19-15.09.14:756][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.19-15.09.14:785][360]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.19-15.09.14:785][360]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.19-15.09.14:786][360]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.19-15.09.14:803][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.19-15.09.14:808][360]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.10.19-15.09.14:844][361]LogPlayLevel: Display: Destroying online subsystem :Context_27
