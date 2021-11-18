@@ -2318,3 +2318,449 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.18-16.01.44:984][339]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/TheLastSurvivorLevel.TheLastSurvivorLevel
 [2021.11.18-16.02.00:794][990]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint5)
 [2021.11.18-16.02.30:105][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.11.18-16.08.15:648][349]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2021.11.18-16.10.34:265][113]Cmd: EDIT COPY
+[2021.11.18-16.10.34:767][161]Cmd: EDIT PASTE
+[2021.11.18-16.10.42:977][449]Cmd: EDIT COPY
+[2021.11.18-16.10.44:195][565]Cmd: EDIT PASTE
+[2021.11.18-16.10.51:428][765]Cmd: EDIT COPY
+[2021.11.18-16.10.51:984][806]Cmd: EDIT PASTE
+[2021.11.18-16.12.18:111][221]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint6)
+[2021.11.18-16.12.59:301][941]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint3)
+[2021.11.18-16.13.12:759][759]Cmd: TRANSACTION UNDO
+[2021.11.18-16.13.12:759][759]LogEditorTransaction: Undo Move Actors
+[2021.11.18-16.13.29:199][752]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint3)
+[2021.11.18-16.14.03:782][820]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush2)
+[2021.11.18-16.14.05:567][ 23]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Cylinder Brush10)
+[2021.11.18-16.14.06:920][181]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Cylinder Brush12)
+[2021.11.18-16.14.08:395][354]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Cylinder Brush11)
+[2021.11.18-16.14.23:693][147]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush101)
+[2021.11.18-16.14.24:774][272]LogEditorViewport: Clicking on Actor (LMB): Brush (Cylinder Brush12)
+[2021.11.18-16.14.26:921][525]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Cylinder Brush2)
+[2021.11.18-16.14.28:201][674]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Cylinder Brush10)
+[2021.11.18-16.14.29:074][775]LogEditorViewport: Clicking on Actor (CTRL LMB): Brush (Cylinder Brush11)
+[2021.11.18-16.14.31:890][108]LogEditorViewport: Clicking on Actor (context menu): Brush (Cylinder Brush2)
+[2021.11.18-16.16.21:136][809]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint5)
+[2021.11.18-16.20.06:435][860]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2021.11.18-16.20.06:481][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.11.18-16.20.45:036][860]LogSavePackage: Moving 'U:/11_11_2021/GameDevelopmentGrp8/Saved/TheLastSurvivorLevel15C4E6234D66D511CC63DEA078FA117E.tmp' to 'U:/11_11_2021/GameDevelopmentGrp8/Content/ThirdPersonBP/Maps/TheLastSurvivorLevel.umap'
+[2021.11.18-16.20.45:071][860]LogFileHelpers: No new changes to save!
+[2021.11.18-16.20.45:075][860]LogFileHelpers: Saving map 'TheLastSurvivorLevel' took 38.601
+[2021.11.18-16.20.45:113][860]AssetCheck: New page: Asset Save: TheLastSurvivorLevel
+[2021.11.18-16.20.45:113][860]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/TheLastSurvivorLevel.TheLastSurvivorLevel
+[2021.11.18-16.21.07:950][498]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.18-16.21.07:964][498]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.18-16.21.07:964][498]PIE: New page: PIE session: TheLastSurvivorLevel (18 Nov 2021, 16:21:07)
+[2021.11.18-16.21.07:986][498]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_TheLastSurvivorLevel
+[2021.11.18-16.21.08:572][498]LogPlayLevel: PIE: StaticDuplicateObject took: (0.585121s)
+[2021.11.18-16.21.08:573][498]LogAIModule: Creating AISystem for world TheLastSurvivorLevel
+[2021.11.18-16.21.08:573][498]LogPlayLevel: PIE: World Init took: (0.001485s)
+[2021.11.18-16.21.08:573][498]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/TheLastSurvivorLevel.TheLastSurvivorLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_TheLastSurvivorLevel.TheLastSurvivorLevel (0.586836s)
+[2021.11.18-16.21.08:582][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.11.18-16.21.08:589][498]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.11.18-16.21.08:589][498]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.18-16.21.08:589][498]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.18-16.21.08:589][498]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.18-16.21.08:589][498]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.18-16.21.08:589][498]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.18-16.21.08:589][498]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.18-16.21.08:589][498]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.18-16.21.08:589][498]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.18-16.21.08:590][498]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.18-16.21.08:590][498]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.18-16.21.08:597][498]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.18-16.21.08:597][498]LogAudioMixer: Display: 1: FrontRight
+[2021.11.18-16.21.08:622][498]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2021.11.18-16.21.08:623][498]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.18-16.21.08:623][498]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.18-16.21.08:623][498]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.18-16.21.08:623][498]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.18-16.21.08:623][498]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.18-16.21.08:623][498]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.18-16.21.08:638][498]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.18-16.21.08:638][498]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.18-16.21.08:638][498]LogInit: FAudioDevice initialized.
+[2021.11.18-16.21.08:638][498]LogAudio: Display: Audio Device (ID: 7) registered with world 'TheLastSurvivorLevel'.
+[2021.11.18-16.21.08:647][498]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.18-16.21.08:662][498]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_TheLastSurvivorLevel.TheLastSurvivorLevel up for play (max tick rate 0) at 2021.11.18-16.21.08
+[2021.11.18-16.21.08:663][498]LogWorld: Bringing up level for play took: 0.015539
+[2021.11.18-16.21.08:663][498]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.11.18-16.21.08:668][498]PIE: Server logged in
+[2021.11.18-16.21.08:669][498]PIE: Play in editor total start time 0.706 seconds.
+[2021.11.18-16.21.08:678][499]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.091190 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_167', movement 'Walking'
+[2021.11.18-16.21.17:009][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.18-16.21.17:009][764]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_TheLastSurvivorLevel
+[2021.11.18-16.21.17:010][764]LogWorld: UWorld::CleanupWorld for TheLastSurvivorLevel, bSessionEnded=true, bCleanupResources=true
+[2021.11.18-16.21.17:012][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.18-16.21.17:027][764]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.18-16.21.17:037][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.18-16.21.17:045][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.18-16.21.17:049][764]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.18-16.21.17:050][764]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.18-16.21.17:081][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.11.18-16.21.17:127][765]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.11.18-16.22.00:436][325]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint5)
+[2021.11.18-16.22.29:369][592]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.11.18-16.22.29:404][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.11.18-16.23.05:161][592]LogSavePackage: Moving 'U:/11_11_2021/GameDevelopmentGrp8/Saved/TheLastSurvivorLevelB6D13E95497F7E23F8FDECB09466B7E0.tmp' to 'U:/11_11_2021/GameDevelopmentGrp8/Content/ThirdPersonBP/Maps/TheLastSurvivorLevel.umap'
+[2021.11.18-16.23.05:199][592]LogFileHelpers: No new changes to save!
+[2021.11.18-16.23.05:204][592]LogFileHelpers: Saving map 'TheLastSurvivorLevel' took 35.810
+[2021.11.18-16.23.05:271][592]AssetCheck: New page: Asset Save: TheLastSurvivorLevel
+[2021.11.18-16.23.05:271][592]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/TheLastSurvivorLevel.TheLastSurvivorLevel
+[2021.11.18-16.23.55:166][996]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/TeamMemberContributions/Sammy_Iancu/FlickeringNeon_sammy.FlickeringNeon_sammy
+[2021.11.18-16.23.55:167][996]LogMaterial: Display: Missing cached shader map for material FlickeringNeon_sammy, compiling. 
+[2021.11.18-16.23.55:510][996]LogMaterial: Display: Missing cached shader map for material FlickeringNeon_sammy, compiling. 
+[2021.11.18-16.23.55:518][996]LogMaterial: Display: Missing cached shader map for material FlickeringNeon_sammy, compiling. 
+[2021.11.18-16.23.55:529][996]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.18-16.23.55:529][996]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.18-16.23.55:529][996]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.18-16.23.55:529][996]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.18-16.23.55:529][996]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.18-16.23.55:529][996]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.18-16.23.55:529][996]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.18-16.23.55:529][996]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.18-16.23.55:529][996]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.11.18-16.23.56:609][ 34]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.11.18-16.23.56:810][ 39]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2021.11.18-16.23.56:934][ 43]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2021.11.18-16.23.56:934][ 43]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.11.18-16.23.56:981][ 45]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.11.18-16.23.57:272][ 56]MaterialEditorStats: Base pass shader: 123 instructions
+[2021.11.18-16.23.57:272][ 56]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2021.11.18-16.23.57:272][ 56]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.11.18-16.23.57:272][ 56]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.18-16.24.05:694][614]LogMaterial: Display: Missing cached shader map for material FlickeringNeon_sammy, compiling. 
+[2021.11.18-16.24.05:703][614]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.18-16.24.05:703][614]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.18-16.24.05:703][614]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.18-16.24.05:703][614]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.18-16.24.05:703][614]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.18-16.24.05:703][614]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.18-16.24.05:703][614]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.18-16.24.05:703][614]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.18-16.24.05:703][614]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.11.18-16.24.05:716][614]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.11.18-16.24.05:723][614]LogMaterial: Display: Missing cached shader map for material FlickeringNeon_sammy, compiling. 
+[2021.11.18-16.24.05:739][614]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.11.18-16.24.05:746][614]LogMaterial: Display: Missing cached shader map for material FlickeringNeon_sammy, compiling. 
+[2021.11.18-16.24.05:755][614]LogSlate: Window 'Color Picker' being destroyed
+[2021.11.18-16.24.06:217][628]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.11.18-16.24.06:249][629]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.11.18-16.24.06:396][634]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.11.18-16.24.06:466][636]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.11.18-16.24.06:495][637]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.11.18-16.24.06:527][637]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2021.11.18-16.24.06:553][638]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2021.11.18-16.24.06:553][638]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.11.18-16.24.06:645][641]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.11.18-16.24.06:781][645]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.18-16.24.06:971][651]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.11.18-16.24.06:971][651]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.18-16.24.07:040][653]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.11.18-16.24.07:600][679]MaterialEditorStats: Base pass shader: 123 instructions
+[2021.11.18-16.24.07:601][679]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2021.11.18-16.24.07:601][679]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.11.18-16.24.07:601][679]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.18-16.24.14:637][150]LogMaterial: Display: Missing cached shader map for material FlickeringNeon_sammy, compiling. 
+[2021.11.18-16.24.14:648][150]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.18-16.24.14:648][150]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.18-16.24.14:648][150]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.18-16.24.14:648][150]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.18-16.24.14:648][150]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.18-16.24.14:648][150]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.18-16.24.14:648][150]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.18-16.24.14:648][150]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.18-16.24.14:650][150]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.11.18-16.24.14:664][150]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.11.18-16.24.14:670][150]LogMaterial: Display: Missing cached shader map for material FlickeringNeon_sammy, compiling. 
+[2021.11.18-16.24.14:686][150]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2021.11.18-16.24.14:694][150]LogMaterial: Display: Missing cached shader map for material FlickeringNeon_sammy, compiling. 
+[2021.11.18-16.24.14:702][150]LogSlate: Window 'Color Picker' being destroyed
+[2021.11.18-16.24.15:178][163]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.11.18-16.24.15:178][163]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.11.18-16.24.15:353][169]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.11.18-16.24.15:407][171]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.11.18-16.24.15:450][172]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.11.18-16.24.15:485][173]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2021.11.18-16.24.15:485][173]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2021.11.18-16.24.15:490][173]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.11.18-16.24.15:624][178]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.11.18-16.24.15:731][181]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.18-16.24.15:869][185]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.11.18-16.24.15:975][188]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.11.18-16.24.15:975][188]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.11.18-16.24.16:529][215]MaterialEditorStats: Base pass shader: 123 instructions
+[2021.11.18-16.24.16:529][215]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2021.11.18-16.24.16:529][215]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.11.18-16.24.16:529][215]MaterialEditorStats: Texture samplers: 2/16
+[2021.11.18-16.24.18:766][364]LogMaterialEditor: Saving and Compiling material FlickeringNeon_sammy
+[2021.11.18-16.24.19:437][364]LogMaterial: Display: Missing cached shader map for material FlickeringNeon_sammy, compiling. 
+[2021.11.18-16.24.19:465][364]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.11.18-16.24.19:465][364]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.11.18-16.24.19:465][364]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.11.18-16.24.19:465][364]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.11.18-16.24.19:465][364]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.11.18-16.24.19:465][364]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.11.18-16.24.19:465][364]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.11.18-16.24.19:465][364]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.11.18-16.24.19:501][364]LogMaterial: Display: Missing cached shader map for material FlickeringNeon_sammy, compiling. 
+[2021.11.18-16.24.19:769][364]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.11.18-16.24.19:798][364]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.11.18-16.24.20:362][364]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2021.11.18-16.24.20:362][364]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2021.11.18-16.24.20:362][364]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.11.18-16.24.20:362][364]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.11.18-16.24.20:362][364]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.11.18-16.24.20:362][364]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.11.18-16.24.20:362][364]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.11.18-16.24.20:362][364]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.11.18-16.24.20:362][364]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2021.11.18-16.24.20:362][364]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.11.18-16.24.20:398][364]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.11.18-16.24.20:418][364]TextureStreamingBuild: Display: Compiling optional shaders took 0.627 seconds.
+[2021.11.18-16.24.20:438][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.11.18-16.24.21:356][364]LogSavePackage: Moving 'U:/11_11_2021/GameDevelopmentGrp8/Saved/FlickeringNeon_sammyD2CF8907412476484C343C9E6CBDD70F.tmp' to 'U:/11_11_2021/GameDevelopmentGrp8/Content/TeamMemberContributions/Sammy_Iancu/FlickeringNeon_sammy.uasset'
+[2021.11.18-16.24.21:414][364]AssetCheck: New page: Asset Save: FlickeringNeon_sammy
+[2021.11.18-16.24.21:414][364]LogContentValidation: Display: Validating Material /Game/TeamMemberContributions/Sammy_Iancu/FlickeringNeon_sammy.FlickeringNeon_sammy
+[2021.11.18-16.24.21:415][364]MaterialEditorStats: Base pass shader: 123 instructions
+[2021.11.18-16.24.21:415][364]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2021.11.18-16.24.21:415][364]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.11.18-16.24.21:415][364]MaterialEditorStats: Texture samplers: 3/16
+[2021.11.18-16.24.22:097][401]LogSlate: Window 'FlickeringNeon_sammy' being destroyed
+[2021.11.18-16.24.22:145][401]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.11.18-16.24.22:145][401]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.18-16.25.11:055][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.11.18-16.26.08:066][775]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.18-16.26.08:080][775]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.18-16.26.08:080][775]PIE: New page: PIE session: TheLastSurvivorLevel (18 Nov 2021, 16:26:08)
+[2021.11.18-16.26.08:081][775]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_TheLastSurvivorLevel
+[2021.11.18-16.26.08:438][775]LogPlayLevel: PIE: StaticDuplicateObject took: (0.357356s)
+[2021.11.18-16.26.08:439][775]LogAIModule: Creating AISystem for world TheLastSurvivorLevel
+[2021.11.18-16.26.08:440][775]LogPlayLevel: PIE: World Init took: (0.001592s)
+[2021.11.18-16.26.08:440][775]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/TheLastSurvivorLevel.TheLastSurvivorLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_TheLastSurvivorLevel.TheLastSurvivorLevel (0.359213s)
+[2021.11.18-16.26.08:449][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.11.18-16.26.08:454][775]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.11.18-16.26.08:454][775]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.18-16.26.08:454][775]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.18-16.26.08:454][775]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.18-16.26.08:454][775]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.18-16.26.08:454][775]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.18-16.26.08:454][775]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.18-16.26.08:454][775]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.18-16.26.08:454][775]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.18-16.26.08:454][775]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.18-16.26.08:454][775]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.18-16.26.08:462][775]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.18-16.26.08:462][775]LogAudioMixer: Display: 1: FrontRight
+[2021.11.18-16.26.08:487][775]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2021.11.18-16.26.08:487][775]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.18-16.26.08:488][775]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.18-16.26.08:488][775]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.18-16.26.08:488][775]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.18-16.26.08:488][775]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.18-16.26.08:488][775]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.18-16.26.08:504][775]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.18-16.26.08:504][775]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.18-16.26.08:504][775]LogInit: FAudioDevice initialized.
+[2021.11.18-16.26.08:504][775]LogAudio: Display: Audio Device (ID: 8) registered with world 'TheLastSurvivorLevel'.
+[2021.11.18-16.26.08:512][775]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.18-16.26.08:527][775]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_TheLastSurvivorLevel.TheLastSurvivorLevel up for play (max tick rate 0) at 2021.11.18-16.26.08
+[2021.11.18-16.26.08:528][775]LogWorld: Bringing up level for play took: 0.015175
+[2021.11.18-16.26.08:528][775]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.11.18-16.26.08:533][775]PIE: Server logged in
+[2021.11.18-16.26.08:534][775]PIE: Play in editor total start time 0.455 seconds.
+[2021.11.18-16.26.08:544][776]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.094831 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_167', movement 'Walking'
+[2021.11.18-16.26.10:021][815]LogBlueprintUserMessages: [EnemyAI_KJ_2] Hit
+[2021.11.18-16.26.10:116][818]LogBlueprintUserMessages: [EnemyAI_KJ_2] Hit
+[2021.11.18-16.26.10:369][826]LogBlueprintUserMessages: [EnemyAI_KJ_2] Hit
+[2021.11.18-16.26.10:501][830]LogBlueprintUserMessages: [EnemyAI_KJ_2] Hit
+[2021.11.18-16.26.10:506][830]LogBlueprintUserMessages: [ThirdPersonGameMode_C_0] Called Next Wave Function
+[2021.11.18-16.26.12:941][906]LogBlueprintUserMessages: [Ammo_Pickup2_7] Ammo is Full!
+[2021.11.18-16.26.13:063][910]LogBlueprintUserMessages: [EnemyAI_KJ_C_1] Hit
+[2021.11.18-16.26.13:063][910]LogBlueprintUserMessages: [EnemyAI_KJ_C_0] Hit
+[2021.11.18-16.26.13:157][913]LogBlueprintUserMessages: [EnemyAI_KJ_C_0] Hit
+[2021.11.18-16.26.13:286][917]LogBlueprintUserMessages: [EnemyAI_KJ_C_0] Hit
+[2021.11.18-16.26.13:379][920]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2021.11.18-16.26.13:412][921]LogBlueprintUserMessages: [EnemyAI_KJ_C_0] Hit
+[2021.11.18-16.26.13:695][930]LogBlueprintUserMessages: [EnemyAI_KJ_C_1] Hit
+[2021.11.18-16.26.13:852][935]LogBlueprintUserMessages: [EnemyAI_KJ_C_1] Hit
+[2021.11.18-16.26.13:946][938]LogBlueprintUserMessages: [EnemyAI_KJ_C_1] Hit
+[2021.11.18-16.26.19:707][128]LogBlueprintUserMessages: [EnemyAI_KJ_C_3] Hit
+[2021.11.18-16.26.19:735][129]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2021.11.18-16.26.19:764][130]LogBlueprintUserMessages: [EnemyAI_KJ_C_2] Hit
+[2021.11.18-16.26.19:796][131]LogBlueprintUserMessages: [EnemyAI_KJ_C_3] Hit
+[2021.11.18-16.26.19:916][135]LogBlueprintUserMessages: [EnemyAI_KJ_C_3] Hit
+[2021.11.18-16.26.19:945][136]LogBlueprintUserMessages: [EnemyAI_KJ_C_2] Hit
+[2021.11.18-16.26.20:006][138]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2021.11.18-16.26.20:036][139]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2021.11.18-16.26.20:065][140]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2021.11.18-16.26.20:182][144]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2021.11.18-16.26.20:211][145]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2021.11.18-16.26.20:239][146]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2021.11.18-16.26.20:528][156]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2021.11.18-16.26.20:883][168]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2021.11.18-16.26.24:311][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.18-16.26.24:313][574]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_TheLastSurvivorLevel
+[2021.11.18-16.26.24:361][574]LogWorld: UWorld::CleanupWorld for TheLastSurvivorLevel, bSessionEnded=true, bCleanupResources=true
+[2021.11.18-16.26.24:363][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.18-16.26.24:376][574]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.18-16.26.24:385][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.18-16.26.24:398][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.18-16.26.24:398][574]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.18-16.26.24:399][574]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.18-16.26.24:430][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.11.18-16.26.24:493][575]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.11.18-16.26.31:781][916]LogEditorViewport: Clicking on Actor (LMB): PlayableCharacterBP_C (ThirdPersonCharacter)
+[2021.11.18-16.26.33:132][936]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlayableCharacter(CharecterChanges)/PlayableCharacterBP.PlayableCharacterBP
+[2021.11.18-16.26.33:343][936]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2021.11.18-16.27.09:069][823]LogRenderer: Reallocating scene render targets to support 1208x804 Format 10 NumSamples 1 (Frame:1).
+[2021.11.18-16.30.22:375][663]BlueprintLog: New page: Compile PlayableCharacterBP
+[2021.11.18-16.30.22:537][663]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2021.11.18-16.30.22:644][663]LogSlate: Took 0.002797 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.11.18-16.30.25:108][832]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.18-16.30.25:134][832]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.18-16.30.25:134][832]PIE: New page: PIE session: TheLastSurvivorLevel (18 Nov 2021, 16:30:25)
+[2021.11.18-16.30.25:134][832]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_TheLastSurvivorLevel
+[2021.11.18-16.30.25:495][832]LogPlayLevel: PIE: StaticDuplicateObject took: (0.360207s)
+[2021.11.18-16.30.25:496][832]LogAIModule: Creating AISystem for world TheLastSurvivorLevel
+[2021.11.18-16.30.25:497][832]LogPlayLevel: PIE: World Init took: (0.002461s)
+[2021.11.18-16.30.25:497][832]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/TheLastSurvivorLevel.TheLastSurvivorLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_TheLastSurvivorLevel.TheLastSurvivorLevel (0.363041s)
+[2021.11.18-16.30.25:530][832]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2021.11.18-16.30.25:532][832]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.11.18-16.30.25:532][832]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.18-16.30.25:532][832]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.18-16.30.25:532][832]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.18-16.30.25:532][832]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.18-16.30.25:532][832]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.18-16.30.25:532][832]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.18-16.30.25:532][832]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.18-16.30.25:532][832]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.18-16.30.25:533][832]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.18-16.30.25:533][832]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.18-16.30.25:540][832]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.18-16.30.25:540][832]LogAudioMixer: Display: 1: FrontRight
+[2021.11.18-16.30.25:565][832]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2021.11.18-16.30.25:565][832]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.18-16.30.25:565][832]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.18-16.30.25:565][832]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.18-16.30.25:565][832]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.18-16.30.25:566][832]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.18-16.30.25:566][832]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.18-16.30.25:579][832]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.18-16.30.25:579][832]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.18-16.30.25:579][832]LogInit: FAudioDevice initialized.
+[2021.11.18-16.30.25:579][832]LogAudio: Display: Audio Device (ID: 9) registered with world 'TheLastSurvivorLevel'.
+[2021.11.18-16.30.25:590][832]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.18-16.30.25:606][832]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_TheLastSurvivorLevel.TheLastSurvivorLevel up for play (max tick rate 0) at 2021.11.18-16.30.25
+[2021.11.18-16.30.25:607][832]LogWorld: Bringing up level for play took: 0.016924
+[2021.11.18-16.30.25:608][832]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.11.18-16.30.25:612][832]PIE: Server logged in
+[2021.11.18-16.30.25:613][832]PIE: Play in editor total start time 0.481 seconds.
+[2021.11.18-16.30.26:877][865]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2021.11.18-16.30.26:910][866]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2021.11.18-16.30.35:972][163]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2021.11.18-16.30.36:538][182]LogBlueprintUserMessages: [EnemyAI_KJ_2] Hit
+[2021.11.18-16.30.36:657][186]LogBlueprintUserMessages: [EnemyAI_KJ_2] Hit
+[2021.11.18-16.30.36:809][191]LogBlueprintUserMessages: [EnemyAI_KJ_2] Hit
+[2021.11.18-16.30.36:988][197]LogBlueprintUserMessages: [Ammo_Pickup4_13] Ammo is Full!
+[2021.11.18-16.30.40:817][318]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.18-16.30.40:817][318]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_TheLastSurvivorLevel
+[2021.11.18-16.30.40:819][318]LogWorld: UWorld::CleanupWorld for TheLastSurvivorLevel, bSessionEnded=true, bCleanupResources=true
+[2021.11.18-16.30.40:821][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.18-16.30.40:832][318]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.18-16.30.40:870][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.18-16.30.40:896][318]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.18-16.30.40:896][318]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.18-16.30.40:897][318]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.18-16.30.40:917][318]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.18-16.30.40:929][318]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2021.11.18-16.30.40:975][319]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.11.18-16.30.43:468][355]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2021.11.18-16.30.43:520][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.11.18-16.31.20:722][355]LogSavePackage: Moving 'U:/11_11_2021/GameDevelopmentGrp8/Saved/TheLastSurvivorLevelA9F7EA194C63341308AA169E1F4CC773.tmp' to 'U:/11_11_2021/GameDevelopmentGrp8/Content/ThirdPersonBP/Maps/TheLastSurvivorLevel.umap'
+[2021.11.18-16.31.20:753][355]LogFileHelpers: No new changes to save!
+[2021.11.18-16.31.20:757][355]LogFileHelpers: Saving map 'TheLastSurvivorLevel' took 37.261
+[2021.11.18-16.31.22:206][355]LogSavePackage: Moving 'U:/11_11_2021/GameDevelopmentGrp8/Saved/PlayableCharacterBPEAB348184B33367EB4B7F38072666EE0.tmp' to 'U:/11_11_2021/GameDevelopmentGrp8/Content/PlayableCharacter(CharecterChanges)/PlayableCharacterBP.uasset'
+[2021.11.18-16.31.22:288][355]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.18-16.31.22:288][355]LogContentValidation: Display: Validating Blueprint /Game/PlayableCharacter(CharecterChanges)/PlayableCharacterBP.PlayableCharacterBP
+[2021.11.18-16.31.22:288][355]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/TheLastSurvivorLevel.TheLastSurvivorLevel
+[2021.11.18-16.31.30:095][476]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.18-16.31.30:110][476]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.18-16.31.30:111][476]PIE: New page: PIE session: TheLastSurvivorLevel (18 Nov 2021, 16:31:30)
+[2021.11.18-16.31.30:111][476]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_TheLastSurvivorLevel
+[2021.11.18-16.31.30:463][476]LogPlayLevel: PIE: StaticDuplicateObject took: (0.352735s)
+[2021.11.18-16.31.30:464][476]LogAIModule: Creating AISystem for world TheLastSurvivorLevel
+[2021.11.18-16.31.30:464][476]LogPlayLevel: PIE: World Init took: (0.001598s)
+[2021.11.18-16.31.30:465][476]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/TheLastSurvivorLevel.TheLastSurvivorLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_TheLastSurvivorLevel.TheLastSurvivorLevel (0.354716s)
+[2021.11.18-16.31.30:490][476]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2021.11.18-16.31.30:491][476]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.11.18-16.31.30:491][476]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.18-16.31.30:491][476]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.18-16.31.30:491][476]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.18-16.31.30:491][476]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.18-16.31.30:491][476]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.18-16.31.30:491][476]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.18-16.31.30:491][476]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.18-16.31.30:491][476]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.18-16.31.30:492][476]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.18-16.31.30:492][476]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.18-16.31.30:499][476]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.18-16.31.30:499][476]LogAudioMixer: Display: 1: FrontRight
+[2021.11.18-16.31.30:523][476]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2021.11.18-16.31.30:523][476]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.18-16.31.30:523][476]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.18-16.31.30:523][476]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.18-16.31.30:524][476]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.18-16.31.30:524][476]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.18-16.31.30:524][476]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.18-16.31.30:539][476]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.18-16.31.30:539][476]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.18-16.31.30:539][476]LogInit: FAudioDevice initialized.
+[2021.11.18-16.31.30:539][476]LogAudio: Display: Audio Device (ID: 10) registered with world 'TheLastSurvivorLevel'.
+[2021.11.18-16.31.30:550][476]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.11.18-16.31.30:565][476]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_TheLastSurvivorLevel.TheLastSurvivorLevel up for play (max tick rate 0) at 2021.11.18-16.31.30
+[2021.11.18-16.31.30:566][476]LogWorld: Bringing up level for play took: 0.015248
+[2021.11.18-16.31.30:566][476]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.11.18-16.31.30:571][476]PIE: Server logged in
+[2021.11.18-16.31.30:572][476]PIE: Play in editor total start time 0.464 seconds.
+[2021.11.18-16.31.31:380][495]LogBlueprintUserMessages: [EnemyAI_KJ_2] Hit
+[2021.11.18-16.31.40:245][790]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2021.11.18-16.31.40:304][792]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2021.11.18-16.31.41:087][818]LogBlueprintUserMessages: [EnemyAI_KJ_2] Hit
+[2021.11.18-16.31.41:896][845]LogBlueprintUserMessages: [EnemyAI_KJ_2] Hit
+[2021.11.18-16.31.42:018][849]LogBlueprintUserMessages: [EnemyAI_KJ_2] Hit
+[2021.11.18-16.31.42:023][849]LogBlueprintUserMessages: [ThirdPersonGameMode_C_0] Called Next Wave Function
+[2021.11.18-16.31.42:861][877]LogBlueprintUserMessages: [Ammo_Pickup_C_0] Ammo is Full!
+[2021.11.18-16.31.42:951][880]LogBlueprintUserMessages: [Ammo_Pickup_C_0] Ammo is Full!
+[2021.11.18-16.31.44:897][946]LogBlueprintUserMessages: [Ammo_Pickup_C_0] Ammo is Full!
+[2021.11.18-16.31.44:956][948]LogBlueprintUserMessages: [Ammo_Pickup_C_0] Ammo is Full!
+[2021.11.18-16.31.47:128][ 21]LogBlueprintUserMessages: [Ammo_Pickup_C_0] Ammo is Full!
+[2021.11.18-16.31.47:217][ 24]LogBlueprintUserMessages: [Ammo_Pickup_C_0] Ammo is Full!
+[2021.11.18-16.31.49:659][107]LogBlueprintUserMessages: [Ammo_Pickup_C_0] Ammo is Full!
+[2021.11.18-16.31.49:755][110]LogBlueprintUserMessages: [Ammo_Pickup_C_0] Ammo is Full!
+[2021.11.18-16.31.52:207][193]LogBlueprintUserMessages: [Ammo_Pickup_C_0] Ammo Increased!
+[2021.11.18-16.31.53:645][242]LogBlueprintUserMessages: [EnemyAI_KJ_C_1] Hit
+[2021.11.18-16.31.53:645][242]LogBlueprintUserMessages: [EnemyAI_KJ_C_0] Hit
+[2021.11.18-16.31.53:731][245]LogBlueprintUserMessages: [EnemyAI_KJ_C_0] Hit
+[2021.11.18-16.31.53:760][246]LogBlueprintUserMessages: [EnemyAI_KJ_C_1] Hit
+[2021.11.18-16.31.53:876][250]LogBlueprintUserMessages: [EnemyAI_KJ_C_1] Hit
+[2021.11.18-16.31.53:989][254]LogBlueprintUserMessages: [EnemyAI_KJ_C_2] Hit
+[2021.11.18-16.31.54:104][258]LogBlueprintUserMessages: [EnemyAI_KJ_C_2] Hit
+[2021.11.18-16.31.54:212][261]LogBlueprintUserMessages: [EnemyAI_KJ_C_2] Hit
+[2021.11.18-16.31.54:319][264]LogBlueprintUserMessages: [EnemyAI_KJ_C_2] Hit
+[2021.11.18-16.31.54:376][266]LogBlueprintUserMessages: [EnemyAI_KJ_C_1] Hit
+[2021.11.18-16.31.54:578][273]LogBlueprintUserMessages: [EnemyAI_KJ_C_0] Hit
+[2021.11.18-16.31.54:697][277]LogBlueprintUserMessages: [EnemyAI_KJ_C_0] Hit
+[2021.11.18-16.31.55:588][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.18-16.31.55:588][307]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_TheLastSurvivorLevel
+[2021.11.18-16.31.55:589][307]LogWorld: UWorld::CleanupWorld for TheLastSurvivorLevel, bSessionEnded=true, bCleanupResources=true
+[2021.11.18-16.31.55:592][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.18-16.31.55:614][307]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.18-16.31.55:657][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.18-16.31.55:681][307]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.18-16.31.55:681][307]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.18-16.31.55:682][307]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.18-16.31.55:703][307]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.18-16.31.55:725][307]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.11.18-16.31.55:773][308]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.11.18-16.31.57:959][341]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
