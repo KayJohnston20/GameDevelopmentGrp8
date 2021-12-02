@@ -2159,3 +2159,221 @@ It is recommended that you free some space to avoid issues such as crashed and d
 [2021.12.02-15.54.34:690][870]LogFileHelpers: Saving map 'TheLastSurvivorLevel' took 3.371
 [2021.12.02-15.54.34:739][870]AssetCheck: New page: Asset Save: TheLastSurvivorLevel
 [2021.12.02-15.54.34:739][870]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/TheLastSurvivorLevel.TheLastSurvivorLevel
+[2021.12.02-15.56.38:824][812]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TeamMemberContributions/Sammy_Iancu/Trap_Sammy.Trap_Sammy
+[2021.12.02-15.56.39:072][812]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2021.12.02-15.57.30:326][ 37]LogSlate: Window 'Trap_Sammy' being destroyed
+[2021.12.02-15.57.30:346][ 37]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.12.02-15.57.30:346][ 37]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.02-15.57.31:419][122]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.02-15.57.31:433][122]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.02-15.57.31:433][122]PIE: New page: PIE session: TheLastSurvivorLevel (2 Dec 2021, 15:57:31)
+[2021.12.02-15.57.31:469][122]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_TheLastSurvivorLevel
+[2021.12.02-15.57.31:507][122]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037837s)
+[2021.12.02-15.57.31:508][122]LogAIModule: Creating AISystem for world TheLastSurvivorLevel
+[2021.12.02-15.57.31:508][122]LogPlayLevel: PIE: World Init took: (0.001454s)
+[2021.12.02-15.57.31:508][122]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/TheLastSurvivorLevel.TheLastSurvivorLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_TheLastSurvivorLevel.TheLastSurvivorLevel (0.039533s)
+[2021.12.02-15.57.31:535][122]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2021.12.02-15.57.31:537][122]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.12.02-15.57.31:537][122]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.02-15.57.31:537][122]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.02-15.57.31:537][122]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.02-15.57.31:537][122]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.02-15.57.31:537][122]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.02-15.57.31:537][122]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.02-15.57.31:537][122]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.02-15.57.31:537][122]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.02-15.57.31:538][122]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.02-15.57.31:538][122]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.02-15.57.31:545][122]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.02-15.57.31:545][122]LogAudioMixer: Display: 1: FrontRight
+[2021.12.02-15.57.31:571][122]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2021.12.02-15.57.31:571][122]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.02-15.57.31:571][122]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.02-15.57.31:571][122]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.02-15.57.31:571][122]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.02-15.57.31:571][122]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.02-15.57.31:571][122]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.02-15.57.31:586][122]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.02-15.57.31:586][122]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.02-15.57.31:586][122]LogInit: FAudioDevice initialized.
+[2021.12.02-15.57.31:586][122]LogAudio: Display: Audio Device (ID: 9) registered with world 'TheLastSurvivorLevel'.
+[2021.12.02-15.57.31:592][122]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.12.02-15.57.31:598][122]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_TheLastSurvivorLevel.TheLastSurvivorLevel up for play (max tick rate 0) at 2021.12.02-15.57.31
+[2021.12.02-15.57.31:599][122]LogWorld: Bringing up level for play took: 0.005940
+[2021.12.02-15.57.31:599][122]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.12.02-15.57.31:603][122]PIE: Server logged in
+[2021.12.02-15.57.31:604][122]PIE: Play in editor total start time 0.173 seconds.
+[2021.12.02-15.57.33:907][333]LogBlueprintUserMessages: [EnemyAI_KJ_2] Hit
+[2021.12.02-15.57.34:008][342]LogBlueprintUserMessages: [EnemyAI_KJ_2] Hit
+[2021.12.02-15.57.34:098][350]LogBlueprintUserMessages: [EnemyAI_KJ_2] Hit
+[2021.12.02-15.57.34:191][358]LogBlueprintUserMessages: [EnemyAI_KJ_2] Hit
+[2021.12.02-15.57.34:191][358]LogBlueprintUserMessages: [ThirdPersonGameMode_C_0] Next Wave in 5 Seconds!
+[2021.12.02-15.57.35:448][474]LogBlueprintUserMessages: [HealthKit_C_0] Health is Full
+[2021.12.02-15.57.35:523][481]LogBlueprintUserMessages: [HealthKit_C_0] Health is Full
+[2021.12.02-15.57.39:186][852]LogBlueprintUserMessages: [ThirdPersonGameMode_C_0] Next Wave!
+[2021.12.02-15.57.45:207][452]LogBlueprintUserMessages: [PlayerWeapon_BP_KJ_C_0] Ammo Full
+[2021.12.02-15.57.46:117][542]LogBlueprintUserMessages: [PlayerWeapon_BP_KJ_C_0] Ammo Full
+[2021.12.02-15.57.50:887][ 24]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2021.12.02-15.57.50:927][ 28]LogBlueprintUserMessages: [EnemyAI_KJ_C_3] Hit
+[2021.12.02-15.57.51:023][ 37]LogBlueprintUserMessages: [EnemyAI_KJ_C_3] Hit
+[2021.12.02-15.57.51:096][ 44]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2021.12.02-15.57.51:140][ 48]LogBlueprintUserMessages: [EnemyAI_KJ_C_2] Hit
+[2021.12.02-15.57.51:161][ 50]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2021.12.02-15.57.51:260][ 59]LogBlueprintUserMessages: [EnemyAI_KJ_C_2] Hit
+[2021.12.02-15.57.51:386][ 71]LogBlueprintUserMessages: [EnemyAI_KJ_C_2] Hit
+[2021.12.02-15.57.51:492][ 81]LogBlueprintUserMessages: [EnemyAI_KJ_C_2] Hit
+[2021.12.02-15.57.51:925][121]LogBlueprintUserMessages: [EnemyAI_KJ_C_3] Hit
+[2021.12.02-15.57.52:025][130]LogBlueprintUserMessages: [EnemyAI_KJ_C_3] Hit
+[2021.12.02-15.57.58:575][781]LogBlueprintUserMessages: [Ammo_Pickup2_7] Ammo Increased!
+[2021.12.02-15.57.59:850][911]LogBlueprintUserMessages: [PlayerWeapon_BP_KJ_C_0] Ammo Full
+[2021.12.02-15.58.08:410][736]LogBlueprintUserMessages: [EnemyAI_KJ_C_1] Hit
+[2021.12.02-15.58.08:441][739]LogBlueprintUserMessages: [EnemyAI_KJ_C_0] Hit
+[2021.12.02-15.58.08:513][746]LogBlueprintUserMessages: [EnemyAI_KJ_C_1] Hit
+[2021.12.02-15.58.08:535][748]LogBlueprintUserMessages: [EnemyAI_KJ_C_0] Hit
+[2021.12.02-15.58.08:619][756]LogBlueprintUserMessages: [EnemyAI_KJ_C_1] Hit
+[2021.12.02-15.58.08:638][758]LogBlueprintUserMessages: [EnemyAI_KJ_C_0] Hit
+[2021.12.02-15.58.08:721][766]LogBlueprintUserMessages: [EnemyAI_KJ_C_1] Hit
+[2021.12.02-15.58.08:741][768]LogBlueprintUserMessages: [EnemyAI_KJ_C_0] Hit
+[2021.12.02-15.58.08:741][768]LogBlueprintUserMessages: [ThirdPersonGameMode_C_0] Next Wave in 5 Seconds!
+[2021.12.02-15.58.11:581][ 49]LogBlueprintUserMessages: [PlayerWeapon_BP_KJ_C_0] Ammo Full
+[2021.12.02-15.58.12:781][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.02-15.58.12:781][171]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_TheLastSurvivorLevel
+[2021.12.02-15.58.12:781][171]LogWorld: UWorld::CleanupWorld for TheLastSurvivorLevel, bSessionEnded=true, bCleanupResources=true
+[2021.12.02-15.58.12:783][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.02-15.58.12:793][171]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.02-15.58.12:803][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.02-15.58.12:819][171]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.02-15.58.12:820][171]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.02-15.58.12:821][171]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.02-15.58.12:842][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.02-15.58.12:849][171]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2021.12.02-15.58.12:891][172]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.12.02-15.59.05:330][768]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TeamMemberContributions/Sammy_Iancu/Trap_Sammy.Trap_Sammy
+[2021.12.02-15.59.13:871][230]BlueprintLog: New page: Compile Trap_Sammy
+[2021.12.02-15.59.13:914][230]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2021.12.02-15.59.15:109][295]LogSlate: Window 'Trap_Sammy' being destroyed
+[2021.12.02-15.59.15:128][295]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.12.02-15.59.15:128][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.02-15.59.15:962][361]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.02-15.59.15:975][361]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.02-15.59.15:975][361]PIE: New page: PIE session: TheLastSurvivorLevel (2 Dec 2021, 15:59:15)
+[2021.12.02-15.59.16:000][361]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_TheLastSurvivorLevel
+[2021.12.02-15.59.16:038][361]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038729s)
+[2021.12.02-15.59.16:040][361]LogAIModule: Creating AISystem for world TheLastSurvivorLevel
+[2021.12.02-15.59.16:040][361]LogPlayLevel: PIE: World Init took: (0.001540s)
+[2021.12.02-15.59.16:040][361]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/TheLastSurvivorLevel.TheLastSurvivorLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_TheLastSurvivorLevel.TheLastSurvivorLevel (0.040506s)
+[2021.12.02-15.59.16:063][361]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2021.12.02-15.59.16:064][361]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.12.02-15.59.16:065][361]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.02-15.59.16:065][361]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.02-15.59.16:065][361]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.02-15.59.16:065][361]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.02-15.59.16:065][361]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.02-15.59.16:065][361]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.02-15.59.16:065][361]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.02-15.59.16:065][361]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.02-15.59.16:065][361]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.02-15.59.16:065][361]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.02-15.59.16:073][361]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.02-15.59.16:073][361]LogAudioMixer: Display: 1: FrontRight
+[2021.12.02-15.59.16:098][361]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2021.12.02-15.59.16:098][361]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.02-15.59.16:098][361]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.02-15.59.16:098][361]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.02-15.59.16:098][361]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.02-15.59.16:098][361]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.02-15.59.16:098][361]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.02-15.59.16:112][361]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.02-15.59.16:112][361]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.02-15.59.16:112][361]LogInit: FAudioDevice initialized.
+[2021.12.02-15.59.16:112][361]LogAudio: Display: Audio Device (ID: 10) registered with world 'TheLastSurvivorLevel'.
+[2021.12.02-15.59.16:121][361]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.12.02-15.59.16:127][361]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_TheLastSurvivorLevel.TheLastSurvivorLevel up for play (max tick rate 0) at 2021.12.02-15.59.16
+[2021.12.02-15.59.16:128][361]LogWorld: Bringing up level for play took: 0.005830
+[2021.12.02-15.59.16:128][361]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.12.02-15.59.16:132][361]PIE: Server logged in
+[2021.12.02-15.59.16:133][361]PIE: Play in editor total start time 0.16 seconds.
+[2021.12.02-15.59.27:224][476]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2021.12.02-15.59.27:233][477]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2021.12.02-15.59.27:882][542]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2021.12.02-15.59.27:921][546]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2021.12.02-15.59.35:511][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.02-15.59.35:511][315]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_TheLastSurvivorLevel
+[2021.12.02-15.59.35:511][315]LogWorld: UWorld::CleanupWorld for TheLastSurvivorLevel, bSessionEnded=true, bCleanupResources=true
+[2021.12.02-15.59.35:513][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.02-15.59.35:522][315]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.02-15.59.35:532][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.02-15.59.35:548][315]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.02-15.59.35:548][315]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.02-15.59.35:549][315]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.02-15.59.35:570][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.02-15.59.35:575][315]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2021.12.02-15.59.35:617][316]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.12.02-15.59.39:679][646]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.02-15.59.39:695][646]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.02-15.59.39:695][646]PIE: New page: PIE session: TheLastSurvivorLevel (2 Dec 2021, 15:59:39)
+[2021.12.02-15.59.39:730][646]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_TheLastSurvivorLevel
+[2021.12.02-15.59.39:768][646]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038094s)
+[2021.12.02-15.59.39:769][646]LogAIModule: Creating AISystem for world TheLastSurvivorLevel
+[2021.12.02-15.59.39:770][646]LogPlayLevel: PIE: World Init took: (0.001585s)
+[2021.12.02-15.59.39:770][646]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/TheLastSurvivorLevel.TheLastSurvivorLevel to /Game/ThirdPersonBP/Maps/UEDPIE_0_TheLastSurvivorLevel.TheLastSurvivorLevel (0.039921s)
+[2021.12.02-15.59.39:788][646]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2021.12.02-15.59.39:791][646]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.12.02-15.59.39:791][646]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.02-15.59.39:791][646]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.02-15.59.39:791][646]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.02-15.59.39:791][646]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.02-15.59.39:791][646]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.02-15.59.39:791][646]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.02-15.59.39:791][646]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.02-15.59.39:791][646]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.02-15.59.39:792][646]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.02-15.59.39:792][646]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.02-15.59.39:799][646]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.02-15.59.39:799][646]LogAudioMixer: Display: 1: FrontRight
+[2021.12.02-15.59.39:823][646]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek High Definition Audio)
+[2021.12.02-15.59.39:824][646]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.02-15.59.39:824][646]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.02-15.59.39:824][646]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.02-15.59.39:824][646]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.02-15.59.39:824][646]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.02-15.59.39:824][646]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.02-15.59.39:839][646]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.02-15.59.39:839][646]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.02-15.59.39:839][646]LogInit: FAudioDevice initialized.
+[2021.12.02-15.59.39:839][646]LogAudio: Display: Audio Device (ID: 11) registered with world 'TheLastSurvivorLevel'.
+[2021.12.02-15.59.39:846][646]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.12.02-15.59.39:852][646]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_TheLastSurvivorLevel.TheLastSurvivorLevel up for play (max tick rate 0) at 2021.12.02-15.59.39
+[2021.12.02-15.59.39:852][646]LogWorld: Bringing up level for play took: 0.005843
+[2021.12.02-15.59.39:853][646]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.12.02-15.59.39:857][646]PIE: Server logged in
+[2021.12.02-15.59.39:858][646]PIE: Play in editor total start time 0.165 seconds.
+[2021.12.02-15.59.41:688][810]LogBlueprintUserMessages: [EnemyAI_KJ_2] Hit
+[2021.12.02-15.59.48:287][444]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Hit
+[2021.12.02-15.59.53:382][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.02-15.59.53:382][939]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_TheLastSurvivorLevel
+[2021.12.02-15.59.53:382][939]LogWorld: UWorld::CleanupWorld for TheLastSurvivorLevel, bSessionEnded=true, bCleanupResources=true
+[2021.12.02-15.59.53:384][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.02-15.59.53:392][939]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.02-15.59.53:402][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.02-15.59.53:419][939]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.02-15.59.53:419][939]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.02-15.59.53:420][939]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.02-15.59.53:440][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.02-15.59.53:445][939]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.12.02-15.59.53:486][940]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.12.02-15.59.55:655][100]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TeamMemberContributions/Sammy_Iancu/Trap_Sammy.Trap_Sammy
+[2021.12.02-15.59.57:013][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TeamMemberContributions/Sammy_Iancu/Trap_Sammy" FILE="U:/25_11_2021/GameDevelopmentGrp8/Content/TeamMemberContributions/Sammy_Iancu/Trap_Sammy.uasset" SILENT=true
+[2021.12.02-15.59.57:201][143]LogSavePackage: Moving 'U:/25_11_2021/GameDevelopmentGrp8/Saved/Trap_SammyA8CFB7EB40DFCFC8A35F6E97CEA9BBEE.tmp' to 'U:/25_11_2021/GameDevelopmentGrp8/Content/TeamMemberContributions/Sammy_Iancu/Trap_Sammy.uasset'
+[2021.12.02-15.59.57:241][143]AssetCheck: New page: Asset Save: Trap_Sammy
+[2021.12.02-15.59.57:241][143]LogContentValidation: Display: Validating Blueprint /Game/TeamMemberContributions/Sammy_Iancu/Trap_Sammy.Trap_Sammy
+[2021.12.02-15.59.59:947][301]LogSlate: Window 'Trap_Sammy' being destroyed
+[2021.12.02-15.59.59:989][301]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.12.02-15.59.59:989][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.02-16.00.01:593][423]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.12.02-16.00.01:628][423]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.12.02-16.00.05:074][423]LogSavePackage: Moving 'U:/25_11_2021/GameDevelopmentGrp8/Saved/TheLastSurvivorLevelD82163044F7EAFF98215A5A949C90C86.tmp' to 'U:/25_11_2021/GameDevelopmentGrp8/Content/ThirdPersonBP/Maps/TheLastSurvivorLevel.umap'
+[2021.12.02-16.00.05:103][423]LogFileHelpers: No new changes to save!
+[2021.12.02-16.00.05:107][423]LogFileHelpers: Saving map 'TheLastSurvivorLevel' took 3.498
+[2021.12.02-16.00.05:158][423]AssetCheck: New page: Asset Save: TheLastSurvivorLevel
+[2021.12.02-16.00.05:158][423]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/TheLastSurvivorLevel.TheLastSurvivorLevel
