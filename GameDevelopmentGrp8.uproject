@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{C8331A38-4096-53D6-8FFC-EBBF9C99FAB5}",
+	"EngineAssociation": "4.27",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -10,10 +10,6 @@
 		},
 		{
 			"Name": "Text3D",
-			"Enabled": true
-		},
-		{
-			"Name": "HoudiniEngine",
 			"Enabled": true
 		}
 	]
